@@ -412,4 +412,4 @@ By working together, admins and super admins streamline the payment information 
 
 ## Contact
 
-For inquiries or support, please contact [cseswaponsaha@gmail.com](mailto:cseswaponsaha@gmail.com).
+For inquiries or support, please contact [sajibsaj66@gmail.com](mailto:sajibsaj66@gmail.com).
