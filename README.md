@@ -395,10 +395,10 @@ By working together, admins and super admins streamline the payment information 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/cseswapon/rail-management-client.git`
-2. Install dependencies: `npm install`
-3. Configure environment variables as needed.
-4. Run the application: `npm run dev`
+1. Clone the repository: `git clone https://github.com/sajibsaj66/Rail-Management-System-Brief`
+3. Install dependencies: `npm install`
+4. Configure environment variables as needed.
+5. Run the application: `npm run dev`
 
 ---
 
